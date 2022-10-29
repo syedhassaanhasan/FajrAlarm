@@ -1,0 +1,6 @@
+module Pods_FajrAlarm {
+  umbrella header "Pods-FajrAlarm-umbrella.h"
+
+  export *
+  module * { export * }
+}
